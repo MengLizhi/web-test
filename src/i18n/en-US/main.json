@@ -1,0 +1,10 @@
+{
+  "register": {
+    "password": "password",
+    "phone": "phone number",
+    "registerButton": "register",
+    "title": "User registration",
+    "username": "username",
+    "verificationCode": "Verification code"
+  }
+}

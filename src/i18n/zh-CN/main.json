@@ -1,0 +1,25 @@
+{
+  "register": {
+    "title": "用户注册",
+    "username": "用户名",
+    "username_empty": "请填写昵称",
+    "username_format": "用户名最少需要2位, 最多26位, 符号只能包含下划线(_)",
+    "password": "密码",
+    "password_empty": "请填写密码",
+    "password_format": "密码需要最少 6 位, 最多 30 位, 符号只能包含下划线(_), 空格( ), 美元符({'$'}), at 符({'@'})",
+    "phone": "手机号码",
+    "phone_empty": "请填写手机号",
+    "phone_format": "请输入正确的大陆手机号",
+    "phone_error": "手机号码已被占用",
+    "code": "验证码",
+    "code_format": "请输入6位验证码",
+    "code_error": "验证码错误",
+    "registerButton": "注册",
+    "submit": "提交",
+    "unsend_code": "发送验证码",
+    "send_code": "{0}秒后重发"
+  },
+  "screen": {
+    "title": "屏幕配置"
+  }
+}
